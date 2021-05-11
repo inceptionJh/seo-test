@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/inceptionJh/seo-test#readme",
   "devDependencies": {
-    "firebase-tools": "^9.9.0"
+    "firebase-tools": "^9.10.2"
   }
 }
